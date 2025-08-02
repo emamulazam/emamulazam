@@ -8,7 +8,7 @@
 - 🌱 Currently diving deep into **web development** and **ethical hacking**
 - 🧠 Always learning new tools, frameworks, and security methodologies
 - 🤝 Open to collaborate on **CTFs**, **security research**, or **web projects**
-- 📬 Reach me via email or connect with me on [LinkedIn](#) *https://www.linkedin.com/in/emamulazam/*
+- 📬 Reach me via email or connect with me on *https://www.linkedin.com/in/emamulazam/*
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love breaking things… so I can learn how to fix them better 😉
 
